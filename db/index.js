@@ -1,0 +1,1 @@
+exports.MssqlServiceProvider = require('./mssql.provider');
